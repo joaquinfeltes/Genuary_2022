@@ -6,9 +6,17 @@ To check out the prompts look [here](http://genuary.art/prompts).
 
 I'm just starting to try out Generative art, so I'm doing the prompts that I found interesting.
 
-Here is an example of day 7 prompt
+### Requierements
 
-## Sol LeWitt Wall Drawing
+to install the neccesary libraries to run the code, run the following command:
+
+`pip install -r requierements/base.txt`
+
+## Examples
+
+Here is an example of day 7 prompt:
+
+### Sol LeWitt Wall Drawing
 
 ## ![day_7](./day_7/output/Wall_drawing_274ac8bf-174d-477c-afac-37eeb2ea2b6a.png)
 
